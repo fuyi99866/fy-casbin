@@ -1,0 +1,65 @@
+{"level":"info","time":"2021-06-29 19:20:02.396","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:20:47.180","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:24:27.446","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:28:04.174","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:28:04.201","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:20","msg":"站点起动"}
+{"level":"info","time":"2021-06-29 19:28:42.715","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:28:43.575","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:24","msg":"站点起动"}
+{"level":"info","time":"2021-06-29 19:29:08.325","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:29:09.202","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:24","msg":"站点起动"}
+{"level":"info","time":"2021-06-29 19:29:47.582","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:29:48.451","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:51","msg":"站点起动"}
+{"level":"info","time":"2021-06-29 19:30:56.880","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:30:57.741","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:51","msg":"站点起动"}
+{"level":"info","time":"2021-06-29 19:31:22.590","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:31:23.455","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:51","msg":"站点起动"}
+{"level":"warn","time":"2021-06-29 19:31:23.456","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:52","msg":"站点起动1111"}
+{"level":"info","time":"2021-06-29 19:32:03.730","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:32:04.633","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:51","msg":"站点起动"}
+{"level":"warn","time":"2021-06-29 19:32:04.633","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:52","msg":"站点起动1111"}
+{"level":"error","time":"2021-06-29 19:32:04.633","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:53","msg":"站点起动122222"}
+{"level":"info","time":"2021-06-29 19:42:13.289","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:42:14.154","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:52","msg":"--------服务启动-------"}
+{"level":"info","time":"2021-06-29 19:44:03.808","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:44:04.687","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:52","msg":"--------服务启动-------"}
+{"level":"info","time":"2021-06-29 19:44:32.470","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:45:58.157","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:21","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 19:45:59.029","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:51","msg":"-----服务启动,可以打开  http://127.0.0.1:8082/swagger/index.html 查看详细接口------"}
+{"level":"info","time":"2021-06-29 20:03:42.493","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 20:05:39.933","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:19","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 20:15:00.399","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:21","msg":"初始化日志"}
+{"level":"info","time":"2021-06-29 20:15:01.382","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:51","msg":"-----服务启动,可以打开  http://127.0.0.1:8082/swagger/index.html 查看详细接口------"}
+{"level":"info","time":"2021-06-29 20:15:54.393","linenum":"D:/fy-casbin/go_casbin/routers/api/v1/user.go:48","msg":"Auth: admin123456"}
+{"level":"info","time":"2021-06-29 20:15:54.398","linenum":"D:/fy-casbin/go_casbin/routers/jwt/jwt.go:37","msg":"GenerateToken"}
+{"level":"info","time":"2021-06-29 20:16:09.966","linenum":"D:/fy-casbin/go_casbin/routers/jwt/jwt.go:63","msg":"jwteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwicGFzc3dvcmQiOiIxMjM0NTYiLCJleHAiOjE2MjQ5Nzk3NTQsImlzcyI6Imdpbi1ibG9nIn0.K1Ks7cB7G00NFkpQyGNKxNDB5lLpxFT4b7vZPDiqCUg"}
+{"level":"info","time":"2021-06-29 20:16:09.966","linenum":"D:/fy-casbin/go_casbin/routers/jwt/jwt.go:68","msg":"解析出来的claims:&{admin 123456 { 1624979754  0 gin-blog 0 }}"}
+{"level":"info","time":"2021-06-29 20:16:09.966","linenum":"D:/fy-casbin/go_casbin/routers/casbin/enforcer/enforcer.go:24","msg":"claims===&{admin 123456 { 1624979754  0 gin-blog 0 }}"}
+{"level":"warn","time":"2021-06-29 20:16:09.966","linenum":"D:/fy-casbin/go_casbin/routers/casbin/enforcer/enforcer.go:37","msg":"没有通过权限"}
+{"level":"info","time":"2021-06-29 20:16:22.305","linenum":"D:/fy-casbin/go_casbin/routers/jwt/jwt.go:63","msg":"jwteyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwicGFzc3dvcmQiOiIxMjM0NTYiLCJleHAiOjE2MjQ5Nzk3NTQsImlzcyI6Imdpbi1ibG9nIn0.K1Ks7cB7G00NFkpQyGNKxNDB5lLpxFT4b7vZPDiqCUg"}
+{"level":"info","time":"2021-06-29 20:16:22.306","linenum":"D:/fy-casbin/go_casbin/routers/jwt/jwt.go:68","msg":"解析出来的claims:&{admin 123456 { 1624979754  0 gin-blog 0 }}"}
+{"level":"info","time":"2021-06-29 20:16:22.306","linenum":"D:/fy-casbin/go_casbin/routers/casbin/enforcer/enforcer.go:24","msg":"claims===&{admin 123456 { 1624979754  0 gin-blog 0 }}"}
+{"level":"info","time":"2021-06-29 20:16:22.306","linenum":"D:/fy-casbin/go_casbin/routers/casbin/enforcer/enforcer.go:34","msg":"通过权限"}
+{"level":"info","time":"2021-06-29 20:16:22.306","linenum":"D:/fy-casbin/go_casbin/routers/api/v1/policy.go:83","msg":"1查看Policy"}
+{"level":"info","time":"2021-06-29 20:16:22.628","linenum":"D:/fy-casbin/go_casbin/routers/api/v1/policy.go:90","msg":"value: admin"}
+{"level":"info","time":"2021-06-29 20:16:22.628","linenum":"D:/fy-casbin/go_casbin/routers/api/v1/policy.go:90","msg":"value: /policy"}
+{"level":"info","time":"2021-06-29 20:16:22.628","linenum":"D:/fy-casbin/go_casbin/routers/api/v1/policy.go:90","msg":"value: GET"}
+{"level":"info","time":"2021-06-29 20:16:22.628","linenum":"D:/fy-casbin/go_casbin/routers/api/v1/policy.go:90","msg":"value: admin"}
+{"level":"info","time":"2021-06-29 20:16:22.628","linenum":"D:/fy-casbin/go_casbin/routers/api/v1/policy.go:90","msg":"value: /policy"}
+{"level":"info","time":"2021-06-29 20:16:22.628","linenum":"D:/fy-casbin/go_casbin/routers/api/v1/policy.go:90","msg":"value: POST"}
+{"level":"info","time":"2021-06-29 20:16:22.628","linenum":"D:/fy-casbin/go_casbin/routers/api/v1/policy.go:90","msg":"value: admin"}
+{"level":"info","time":"2021-06-29 20:16:22.628","linenum":"D:/fy-casbin/go_casbin/routers/api/v1/policy.go:90","msg":"value: /policy"}
+{"level":"info","time":"2021-06-29 20:16:22.628","linenum":"D:/fy-casbin/go_casbin/routers/api/v1/policy.go:90","msg":"value: DELETE"}
+{"level":"info","time":"2021-07-02 14:48:22.375","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:23","msg":"初始化日志"}
+{"level":"info","time":"2021-07-02 14:48:23.351","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:30","msg":"--------服务启动-------"}
+{"level":"info","time":"2021-07-02 14:48:23.351","linenum":"D:/fy-casbin/go_casbin/main.go:12","msg":"start..."}
+{"level":"info","time":"2021-07-02 14:48:23.351","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:61","msg":"-----服务启动,可以打开  http://127.0.0.1:8082/swagger/index.html 查看详细接口------"}
+{"level":"info","time":"2021-07-02 15:11:32.651","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:23","msg":"初始化日志"}
+{"level":"info","time":"2021-07-02 15:11:33.506","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:30","msg":"--------服务启动-------"}
+{"level":"info","time":"2021-07-02 15:11:33.506","linenum":"D:/fy-casbin/go_casbin/main.go:12","msg":"start..."}
+{"level":"info","time":"2021-07-02 16:39:39.505","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:23","msg":"初始化日志"}
+{"level":"info","time":"2021-07-02 16:39:40.387","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:30","msg":"--------服务启动-------"}
+{"level":"info","time":"2021-07-02 16:39:40.387","linenum":"D:/fy-casbin/go_casbin/main.go:12","msg":"start..."}
+{"level":"info","time":"2021-07-02 16:39:40.387","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:61","msg":"-----服务启动,可以打开  http://127.0.0.1:8082/swagger/index.html 查看详细接口------"}
+{"level":"info","time":"2021-07-02 16:51:01.459","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:25","msg":"初始化日志"}
+{"level":"info","time":"2021-07-02 16:51:02.262","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:32","msg":"--------服务启动-------"}
+{"level":"info","time":"2021-07-02 16:51:02.262","linenum":"D:/fy-casbin/go_casbin/main.go:12","msg":"start..."}
