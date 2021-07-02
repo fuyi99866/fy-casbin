@@ -63,3 +63,15 @@
 {"level":"info","time":"2021-07-02 16:51:01.459","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:25","msg":"初始化日志"}
 {"level":"info","time":"2021-07-02 16:51:02.262","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:32","msg":"--------服务启动-------"}
 {"level":"info","time":"2021-07-02 16:51:02.262","linenum":"D:/fy-casbin/go_casbin/main.go:12","msg":"start..."}
+{"level":"info","time":"2021-07-02 17:14:35.809","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:25","msg":"初始化日志"}
+{"level":"info","time":"2021-07-02 17:14:36.608","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:32","msg":"--------服务启动-------"}
+{"level":"info","time":"2021-07-02 17:14:36.608","linenum":"D:/fy-casbin/go_casbin/main.go:12","msg":"start..."}
+{"level":"info","time":"2021-07-02 17:22:09.007","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:25","msg":"初始化日志"}
+{"level":"info","time":"2021-07-02 17:22:09.806","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:32","msg":"--------服务启动-------"}
+{"level":"info","time":"2021-07-02 17:22:09.806","linenum":"D:/fy-casbin/go_casbin/main.go:12","msg":"start..."}
+{"level":"info","time":"2021-07-02 17:33:06.198","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:25","msg":"初始化日志"}
+{"level":"info","time":"2021-07-02 17:33:07.310","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:32","msg":"--------服务启动-------"}
+{"level":"info","time":"2021-07-02 17:33:07.310","linenum":"D:/fy-casbin/go_casbin/main.go:12","msg":"start..."}
+{"level":"info","time":"2021-07-02 17:34:51.680","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:25","msg":"初始化日志"}
+{"level":"info","time":"2021-07-02 17:34:52.800","linenum":"D:/fy-casbin/go_casbin/manageweb/manageweb.go:32","msg":"--------服务启动-------"}
+{"level":"info","time":"2021-07-02 17:34:52.800","linenum":"D:/fy-casbin/go_casbin/main.go:12","msg":"start..."}

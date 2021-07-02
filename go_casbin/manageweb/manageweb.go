@@ -44,7 +44,11 @@ func initWeb() {
 	app := gin.New()
 	app.NoRoute(middleware.NoRouteHandler())
 	//崩溃恢复
-	app.Use()
+	app.Use(middleware.RecoveryMiddleware())
+	app.LoadHTMLGlob( "dist/*.html")
+	app.Static("/static","dist/static")
+	app.Static("/resource", "resource")
+	app.StaticFile("/favicon.ico","dist/favicon.ico")
 
 	//注册路由
 	routers.RegisterRouter(app)
